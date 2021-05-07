@@ -294,3 +294,99 @@
 04/05/2021 11:46:06 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
 04/05/2021 11:46:08 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
 04/05/2021 11:46:09 {jsmith} Conductor logged out
+06/05/2021 20:32:58 {jsmith} Conductor logged in
+06/05/2021 20:32:58 {IOTSYS} Sensor list initialized
+06/05/2021 20:32:59 {IOTSYS} GPSS 0001 GPS Sensor detected
+06/05/2021 20:32:59 {IOTSYS} GPSS 0002 GPS Sensor detected
+06/05/2021 20:32:59 {IOTSYS} DRS ZVD1 Doppler Radar Sensor detected
+06/05/2021 20:32:59 {IOTSYS} DRS ZVD2 Doppler Radar Sensor detected
+06/05/2021 20:32:59 {IOTSYS} DRS ZVS1 Doppler Radar Sensor detected
+06/05/2021 20:32:59 {IOTSYS} DRS ZVS2 Doppler Radar Sensor detected
+06/05/2021 20:32:59 {IOTSYS} IFS FFFG Ice Formation Sensor detected
+06/05/2021 20:32:59 {IOTSYS} IFS FFFE Ice Formation Sensor detected
+06/05/2021 20:32:59 {IOTSYS} CGS 452 Crossing Gate Sensor detected
+06/05/2021 20:32:59 {IOTSYS} CGS 451 Crossing Gate Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0006 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0007 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0008 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0009 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0010 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} WS 0011 Wheel Sensor detected
+06/05/2021 20:32:59 {IOTSYS} Sensors detected
+06/05/2021 20:33:00 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 26.5 C; H: 15.5%
+06/05/2021 20:33:02 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 26.5 C; H: 15.5%
+06/05/2021 20:33:02 {ALERT} Object ahead; 1.9 mi.; 80.6 mph
+06/05/2021 20:33:03 {GNRS} 89.1 (RPM); 88.8 (GPS); T: 26.5 C; H: 15.5%
+06/05/2021 20:33:03 {INFO} Object behind; 7.5 mi.; 93.6 mph
+06/05/2021 20:33:05 {GNRS} 89.1 (RPM); 88.6 (GPS); T: -10.5 C; H: 76.5%
+06/05/2021 20:33:05 {INFO} Ice formation possible
+06/05/2021 20:33:06 {GNRS} 89.1 (RPM); 89.0 (GPS); T: -10.5 C; H: 14.5%
+06/05/2021 20:33:08 {GNRS} 90.7 (RPM); 88.2 (GPS); T: -10.5 C; H: 14.5%
+06/05/2021 20:33:08 {INFO} Minor wheel slippage: 2.5
+06/05/2021 20:33:09 {GNRS} 67.4 (RPM); 92.4 (GPS); T: -10.5 C; H: 14.5%
+06/05/2021 20:33:09 {ALERT} Major wheel slippage: 25.0
+06/05/2021 20:33:11 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:11 {INFO} Crossing gate detected 1.12
+06/05/2021 20:33:13 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:13 {INFO} Crossing gate detected 1.10
+06/05/2021 20:33:14 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:14 {INFO} Crossing gate detected 1.07
+06/05/2021 20:33:16 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:16 {INFO} Crossing gate detected 1.05
+06/05/2021 20:33:17 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:17 {INFO} Crossing gate detected 1.02
+06/05/2021 20:33:19 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:19 {INFO} Crossing gate detected 1.02
+06/05/2021 20:33:20 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:20 {INFO} Crossing gate detected 1.00
+06/05/2021 20:33:22 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:22 {INFO} Crossing gate detected 0.95
+06/05/2021 20:33:23 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:23 {INFO} Crossing gate detected 0.93
+06/05/2021 20:33:25 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:25 {INFO} Crossing gate detected 0.90
+06/05/2021 20:33:26 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:26 {INFO} Crossing gate detected 0.88
+06/05/2021 20:33:28 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:28 {INFO} Crossing gate detected 0.85
+06/05/2021 20:33:29 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:29 {INFO} Crossing gate detected 0.82
+06/05/2021 20:33:31 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:31 {INFO} Crossing gate detected 0.82
+06/05/2021 20:33:32 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:32 {INFO} Crossing gate detected 0.80
+06/05/2021 20:33:34 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:34 {INFO} Crossing gate detected 0.78
+06/05/2021 20:33:35 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:35 {INFO} Crossing gate detected 0.75
+06/05/2021 20:33:37 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:37 {INFO} Crossing gate detected 0.72
+06/05/2021 20:33:38 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:38 {INFO} Crossing gate detected 0.33
+06/05/2021 20:33:40 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:40 {INFO} Crossing gate detected 0.30
+06/05/2021 20:33:41 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:41 {INFO} Crossing gate detected 0.28
+06/05/2021 20:33:43 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:43 {INFO} Crossing gate detected 0.25
+06/05/2021 20:33:44 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:44 {INFO} Crossing gate detected 0.23
+06/05/2021 20:33:46 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:46 {INFO} Crossing gate detected 0.17
+06/05/2021 20:33:47 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:47 {INFO} Crossing gate detected 0.15
+06/05/2021 20:33:49 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:49 {INFO} Crossing gate detected 0.12
+06/05/2021 20:33:50 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:50 {INFO} Crossing gate detected 0.10
+06/05/2021 20:33:52 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:52 {INFO} Crossing gate detected 0.07
+06/05/2021 20:33:53 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:53 {INFO} Crossing gate detected 0.05
+06/05/2021 20:33:55 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:55 {INFO} Crossing gate detected 0.03
+06/05/2021 20:33:56 {GNRS} 89.1 (RPM); 87.9 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:56 {INFO} Crossing gate detected 0.00
+06/05/2021 20:33:58 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:33:59 {GNRS} 89.1 (RPM); 88.0 (GPS); T: 20.0 C; H: 42.5%
+06/05/2021 20:34:01 {jsmith} Conductor logged out
