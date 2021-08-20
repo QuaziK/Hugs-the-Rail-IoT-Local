@@ -21,13 +21,13 @@ public class IoTSimulator {
     static boolean isCond = true;
     static boolean loggedIn = false;
     
-    private static LoggingSystem logger = new LoggingSystem("log.hrt");
+    private static LoggingSystem logger = new LoggingSystem("log.htr");
     private static RouterSim router;
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);        
         try { // open list of users file
-            File myObj = new File("users.hrt");
+            File myObj = new File("users.htr");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
@@ -81,7 +81,7 @@ public class IoTSimulator {
                     } catch (InterruptedException e) {}
                     System.out.print(ANSI_YELLOW);
                     try { // lookup sensor list
-                        File myObj = new File("sensors.hrt");
+                        File myObj = new File("sensors.htr");
                         Scanner myReader = new Scanner(myObj);
                         while (myReader.hasNextLine()) {
                             String data = myReader.nextLine();
@@ -150,7 +150,7 @@ public class IoTSimulator {
                     }                    
                     
                     System.out.println(ANSI_YELLOW + "---Start of testing script---" + ANSI_WHITE);
-                    router = new RouterSim("testscript.hrt", 1500, numGPS+numCGS+numDRS+numIFS+numWS); // create router object 
+                    router = new RouterSim("testscript.htr", 1500, numGPS+numCGS+numDRS+numIFS+numWS); // create router object 
                     
                     double secondsOfHorn = 0;
                     while (true) { // loop for reading sensor data from router
